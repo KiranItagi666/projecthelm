@@ -100,5 +100,5 @@ Below is a simplified diagram of the BankApp Helm deployment on EKS:
 - Seamless deployment on AWS EKS
 
 ---
-
+Refer bankapp-project for the helm chart, template and values files for implementation
 
