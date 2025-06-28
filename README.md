@@ -101,7 +101,4 @@ Below is a simplified diagram of the BankApp Helm deployment on EKS:
 
 ---
 
-## 📁 For Full Helm Configuration
-
-Refer to [`HELM-Project-DevOpsShack.md`](./HELM-Project-DevOpsShack.md) in this repo for detailed YAML templates and values.
 
