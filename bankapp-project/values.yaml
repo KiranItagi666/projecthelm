@@ -15,7 +15,7 @@ mysql:
     type: ClusterIP 
 
 bankapp:
-  image: "adijaiswal/bankapp:latest"
+  image: "kviondocker/bankapp:latest"
   replicas: 2
   resources:
     requests:
